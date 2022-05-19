@@ -1,1 +1,1 @@
-# g-fplus2
+# Favelon'a ait bir altyapıdır kimseye verilmez.
